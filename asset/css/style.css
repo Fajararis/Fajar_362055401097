@@ -1,0 +1,17 @@
+.jumbotron img {
+    border-radius: 50%;
+}
+
+.color-nav {
+    background-color: skyblue;
+}
+
+.about hr {
+	width: 250px
+	border-top: 3px solid #999;
+}
+
+section{
+	min-height: 600px
+}
+
